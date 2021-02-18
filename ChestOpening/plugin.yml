@@ -1,0 +1,11 @@
+name: ChestOpening
+version: 1.16.0
+api-version: 1.16
+main: de.redoxcraft.chestopening.main.Main
+author: RedoxCraft
+description: none
+website: https://www.youtube.com/redoxcraft
+
+commands:
+   chestopeningloot:
+      description:
